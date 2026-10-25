@@ -1,0 +1,5 @@
+﻿SECRET SENTINEL — DEVELOPER PREVIEW
+This preview is provided for evaluation and testing.
+Detection is heuristic and may produce false positives or miss credentials.
+Do not treat a clean scan as proof that a project is secure.
+Review findings and protect generated reports as sensitive data.
